@@ -1,7 +1,7 @@
 # Telco Apps Automation Framework
 
 ## Overview
-Telco Automation Projects is a test automation framework developed for five telecom applications. It is built using Selenium WebDriver with Java, Cucumber for BDD (Behavior-Driven Development), and TestNG for test execution. The framework is designed to ensure efficient and scalable test automation for telecom-based applications.
+Telco Apps Automation Framework is a test automation framework developed for five telecom applications. It is built using Selenium WebDriver with Java, Cucumber for BDD (Behavior-Driven Development), and TestNG for test execution. The framework is designed to ensure efficient and scalable test automation for telecom-based applications.
 
 ## Features
 - **Selenium WebDriver** for UI automation
