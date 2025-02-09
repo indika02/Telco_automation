@@ -8,7 +8,6 @@ Telco Apps Automation Framework is a test automation framework developed for fiv
 - **Cucumber BDD** for test case readability and maintainability
 - **TestNG** for test execution and reporting
 - **Page Object Model (POM)** for structured and reusable test scripts
-- **Data-driven testing** using external data sources (e.g., Excel, JSON, or database)
 - **Parallel Execution** support via TestNG
 - **Cross-browser testing** Chrome,Firefox
 
